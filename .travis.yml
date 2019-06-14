@@ -1,0 +1,24 @@
+language: ruby
+
+rvm:
+  - 2.6.0
+before_install: 
+  - gem install bundler -v 2.0.1
+ 
+
+env:
+  - DB=postgresql
+
+services:
+  - postgresql
+
+addons:
+    postgresql: '9.6'
+
+script:
+  - bin/rails db:create
+  - bin/rails db:migrate
+  - bundle exec rspec spec
+
+before_script:
+  - bundle install

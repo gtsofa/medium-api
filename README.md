@@ -1,7 +1,9 @@
 
 
 # medium-api
-[![Build Status](https://travis-ci.com/gtsofa/medium-api.svg?branch=master)](https://travis-ci.com/gtsofa/medium-api)
+[![Build Status](https://travis-ci.com/gtsofa/medium-api.svg?branch=develop)](https://travis-ci.com/gtsofa/medium-api)
+
+[![Coverage Status](https://coveralls.io/repos/github/gtsofa/medium-api/badge.svg?branch=ch-integrate-code-coverage-service-166213694)](https://coveralls.io/github/gtsofa/medium-api?branch=ch-integrate-code-coverage-service-166213694)
 
 Medium clone web project api
 

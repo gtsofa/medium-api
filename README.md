@@ -1,5 +1,8 @@
 
+
 # medium-api
+[![Build Status](https://travis-ci.com/gtsofa/medium-api.svg?branch=master)](https://travis-ci.com/gtsofa/medium-api)
+
 Medium clone web project api
 
 

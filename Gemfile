@@ -7,6 +7,7 @@ ruby '2.6.0'
 gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
+
 gem 'rspec', '~> 3.8'
 
 gem 'net-http-pipeline', '~> 1.0', '>= 1.0.1'
@@ -36,7 +37,12 @@ gem 'bootsnap', '>= 1.1.0', require: false
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'coveralls', '~> 0.8.23'
   gem 'rspec-rails', '~> 3.5'
+  gem 'pry'
+  gem 'pry-byebug'
+  gem 'cucumber-rails', require: false
+  
 end
 
 group :development do

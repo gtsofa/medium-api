@@ -9,9 +9,9 @@ gem 'rails', '~> 5.2.3'
 # gem 'sqlite3'
 gem 'rspec', '~> 3.8'
 
+gem 'net-http-pipeline', '~> 1.0', '>= 1.0.1'
 gem 'pg', '~> 0.20'
 gem 'travis'
-gem 'net-http-pipeline', '~> 1.0', '>= 1.0.1'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder

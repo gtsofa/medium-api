@@ -18,7 +18,9 @@ addons:
 script:
   - bin/rails db:create
   - bin/rails db:migrate
+  - bundle exec rake rswag:specs:swaggerize
   - bundle exec rspec spec
+
 
 before_script:
   - bundle install

@@ -1,0 +1,74 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1560520162
+  },
+  "Cucumber Features": {
+    "coverage": {
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/tsofa/Desktop/work/home/Projects/Backends/RoR/medium-api/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1560520173
+  }
+}

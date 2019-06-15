@@ -8,6 +8,7 @@ gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
 gem 'rspec', '~> 3.8'
+gem 'rswag', '~> 2.0', '>= 2.0.5'
 
 gem 'net-http-pipeline', '~> 1.0', '>= 1.0.1'
 gem 'pg', '~> 0.20'
